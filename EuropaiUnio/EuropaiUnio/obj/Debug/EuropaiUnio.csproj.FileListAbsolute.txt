@@ -1,0 +1,7 @@
+C:\Users\Soma\Documents\C#2\EuropaiUnio\EuropaiUnio\bin\Debug\EuropaiUnio.exe.config
+C:\Users\Soma\Documents\C#2\EuropaiUnio\EuropaiUnio\bin\Debug\EuropaiUnio.exe
+C:\Users\Soma\Documents\C#2\EuropaiUnio\EuropaiUnio\bin\Debug\EuropaiUnio.pdb
+C:\Users\Soma\Documents\C#2\EuropaiUnio\EuropaiUnio\obj\Debug\EuropaiUnio.csprojAssemblyReference.cache
+C:\Users\Soma\Documents\C#2\EuropaiUnio\EuropaiUnio\obj\Debug\EuropaiUnio.exe
+C:\Users\Soma\Documents\C#2\EuropaiUnio\EuropaiUnio\obj\Debug\EuropaiUnio.pdb
+C:\Users\Soma\Documents\C#2\EuropaiUnio\EuropaiUnio\obj\Debug\EuropaiUnio.csproj.CoreCompileInputs.cache
